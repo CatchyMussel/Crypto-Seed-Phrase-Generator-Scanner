@@ -54,8 +54,7 @@ python crypto_seed_generator.py
 ### Bulk Scan Format
 Plain text file, one seed phrase per line, e.g.:
 ```
-abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about
-legal winner thank year wave sausage worth useful legal winner thank yellow
+about legal winner thank year wave sausage worth useful legal winner thank yellow
 ```
 
 ## Configuration
