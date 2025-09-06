@@ -1,0 +1,5 @@
+mnemonic
+ecdsa
+base58
+matplotlib
+requests
